@@ -1,0 +1,2 @@
+# Anti-Money-Laundering-Detection-in-Banking-Data-with-Supervised-and-Unsupervised-Algorithms
+ This study employs Artificial Neural Networks (ANN), Extreme Gradient Boosting (XGBoost) and Density-Based Spatial Clustering of Applications with Noise (DBSCAN) algorithms to analyse bank data, providing insights into effective anti-money laundering strategies through both supervised and unsupervised approaches.
